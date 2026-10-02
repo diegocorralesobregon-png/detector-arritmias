@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+mitdb/
+ondas.npz
+caracteristicas.csv
+*.npy

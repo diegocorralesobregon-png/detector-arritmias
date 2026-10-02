@@ -1,0 +1,7 @@
+wfdb
+numpy
+scipy
+matplotlib
+pandas
+scikit-learn
+torch
